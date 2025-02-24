@@ -1,0 +1,13 @@
+* C:\users\Brandon\Documents\ECE_213\lab4.asc
+Vs Vs 0 SINE(0 4.25 500)
+C1 V3 Vs 470n
+R1 V3 V2 3.9k
+R2 V3 0 470
+C2 V2 0 33n
+L1 V3 0 150m
+.tran 0 .2 .1 .001 startup
+.meas V2 MAX V(V2) FROM .01 TO .1
+.meas Vs MAX V(Vs) FROM .01 TO .1
+.meas V1 MAX V(V1) FROM .01 TO .1
+.backanno
+.end
