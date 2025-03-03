@@ -16,9 +16,9 @@ Lab reports: 60% \
 Pre labs: 10% \
 Lab Final: 30% 
 
-Lab reports will be broken into two different catagories - Participation, and the actual report.  Half of the report will be showing up and doing the lab, the other half will be the report itself.  This means that the report itself is worth 30% of your grade, and lab participation is worht 30% of your grade. \
+Lab reports will be broken into two different catagories - Participation, and the actual report.  Half of the report will be showing up and doing the lab, the other half will be the report itself.  This means that the report itself is worth 30% of your grade, and lab participation is worht 30% of your grade. 
 
-The lab final will be 100 points. It will mostly be questions about the concepts leanrned in lab, but may also have questions about things learned in class. It will be indiviudally completed. \
+The lab final will be 100 points. It will mostly be questions about the concepts leanrned in lab, but may also have questions about things learned in class. It will be indiviudally completed. 
 
 # Late Work
 Lab reports will be due at the end the following lab giving you a week to do it.  Late work will not be accepted unless approved by the TA before the due date.  Reach out to your TA if you need more time.  Pre labs will be due Tuesday before lab.  Late Prelabs will not be accepted.
