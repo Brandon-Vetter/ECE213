@@ -25,17 +25,17 @@ Lab reports will be due at the end the following lab giving you a week to do it.
 
 # Lab Schedule
 
-January 23, Lab 1
-January 30, Lab 2
-February 6, Lab 3
-February 13, Lab 4
-February 20, Makeup week
-February 27, Lab 5
-March 6, Makeup week
-March 13, Spring Break - no lab
-March 20, Lab 6
-March 27, Lab 7
-April 3, Lab 8
-April 10, Practical Test
-April 17, Makeup Week (Maybe)
+January 23, Lab 1 \\
+January 30, Lab 2 \\
+February 6, Lab 3 \\
+February 13, Lab 4 \\
+February 20, Makeup week \\
+February 27, Lab 5 \\
+March 6, Makeup week \\
+March 13, Spring Break - no lab \\
+March 20, Lab 6 \\
+March 27, Lab 7 \\
+April 3, Lab 8 \\
+April 10, Practical Test \\
+April 17, Makeup Week (Maybe) \\
 
