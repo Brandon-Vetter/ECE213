@@ -5,7 +5,8 @@ Below is a more accurate sylybus for the class and how I will be grading assigme
 
 # Contact
 Brandon Vetter \
-bvetter@uidaho.edu 
+bvetter@uidaho.edu \
+brandon.w.vetter@ieee.org 
 
 # Office Hours:
 9:00 AM - 6:00 PM Monday Though Friday By appointment - send me a outlook calender message or email. \
