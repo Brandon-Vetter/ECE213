@@ -42,3 +42,9 @@ April 3, Lab 8
 April 10, Practical Test 
 April 17, Makeup Week (Maybe) 
 ```
+
+# Lab Report Examples
+
+Here is the overleaf example: https://www.overleaf.com/read/ndtkzsgmyqsn#7c34c2 \
+Here is some lab report examples: https://sites.google.com/site/ece211lab/lab-report-requirements?authuser=2\
+The second link is to the circuits 1 website, though those lab report examples are still good latex examples.
