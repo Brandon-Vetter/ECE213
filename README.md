@@ -17,7 +17,9 @@ Lab reports: 60% \
 Pre labs: 10% \
 Lab Final: 30% 
 
-Lab reports will be broken into two different catagories - Participation, and the actual report.  Half of the report will be showing up and doing the lab, the other half will be the report itself.  This means that the report itself is worth 30% of your grade, and lab participation is worht 30% of your grade. 
+Lab reports will be broken into two different catagories - Participation, and the actual report.  Half of the report will be showing up and doing the lab, the other half will be the report itself.  This means that the report itself is worth 30% of your grade, and lab participation is worth 30% of your grade.
+
+Each lab report will be graded out of 10.  If you do your lab reports in latex, you can get 2 points back on your lab reports, though the extra points can not go above 10 points.
 
 The lab final will be 100 points. It will mostly be questions about the concepts leanrned in lab, but may also have questions about things learned in class. It will be indiviudally completed. 
 
