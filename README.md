@@ -1,3 +1,5 @@
+THIS IS AN ARHIVE FOR ECE 213 LAB
+This git repository is what I was using twords the end as I did not have a good way to give students important information.  I does contain some python scripts to explain some consepts.
 # ECE213
 Files for ECE 213 that I can edit - should be simular consept to the ECE 211 lab.\
 I am making the repository as I am unable to edit the canvas and want to be able to make small changes to lab handouts, and make sure that everyone is using the same labhandout.  I also want to be able to upload example lab reports, and upload any simulations/code I make for this lab.\
